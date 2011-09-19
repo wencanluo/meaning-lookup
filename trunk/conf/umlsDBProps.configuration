@@ -1,0 +1,5 @@
+url = jdbc:mysql://example.org:3306/umls_2010aa
+
+user = umls_user
+
+password = umls_mysql_password
