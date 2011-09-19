@@ -1,0 +1,24 @@
+
+baseUrl = http://example.org:8080
+
+title = Research Interest Normalizer
+
+subtitle = 2011 Stony Brook School of Medicine, Dept. of Medical Informatics
+
+ADMIN_LOGIN = admin
+
+ADMIN_PASS = admintemppassword
+
+MAX_NUMBER_OF_CONVERSATIONS = 100
+
+MAX_NUMBER_OF_UMLS_CUIS = 5
+
+MAX_MILISECONDS_CONVERSATION_DURATION = 3600000
+
+PREDICATE_TYPE = http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+
+PREDICATE_LABEL = http://www.w3.org/1999/02/22-rdf-syntax-ns#label
+
+PREDICATE_SUBCLASS_OF = http://www.w3.org/2000/01/rdf-schema#subClassOf
+
+class_path = C:\\Users\\developer\\workspace\\meaning-lookup\\WebContent\\WEB-INF\\classes\\
